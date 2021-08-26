@@ -1,0 +1,42 @@
+body h3{
+    color: rgb(53, 223, 61);
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body p{
+    font-family: monospace;
+
+}
+body {
+    color:black;
+}
+.page{
+    background-image: url("/resipe/images/copy.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page p{ color: white;}
+
+.ugali > img{
+float:left;
+}
+.ugali{
+    text-align: center;
+    background-color: rgb(79, 150, 138);
+    /* list-style: none; */
+}
+.kaimati > img{
+    float: left;
+}
+.kaimati{
+    text-align: center;
+    background-color: rgb(78, 165, 56);
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+}
+li{
+    list-style: none;
+}
+
